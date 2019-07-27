@@ -1,5 +1,6 @@
 # led8-raspi
-プロジェクトLED8 は Raspberry PiとFirebaseとVue.jsを用いて、uyamazak自宅に設置された8個のLEDを光らせるプロジェクトです。
+LED8プロジェクトは Raspberry PiとFirebaseとVue.jsを用いて、uyamazak自宅に設置された8個のLEDをWEBアプリ上から点けたり消したりするプロジェクトです。
+実際にどう光っているかは、同じRaspberry Piのカメラで撮影された写真で確認することができます。
 
 このレポジトリは[Raspberry Pi Zero WH](https://amzn.to/2yisD3a)の上で動かすPythonのスクリプトです。
 
