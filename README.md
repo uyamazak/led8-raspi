@@ -4,7 +4,7 @@ LED8プロジェクトは Raspberry PiとFirebaseとVue.jsを用いて、uyamaza
 
 このレポジトリは[Raspberry Pi Zero WH](https://amzn.to/2yisD3a)の上で動かすPythonのスクリプトです。
 
-もう一つFirebase Hostingで動作させる**led8-firebase**が別レポジトリにあり、2つセットで動作します。
+もう一つFirebase Hostingで動作するVue.jsのアプリケーション[**led8-firebase**](https://github.com/uyamazak/led8-firebase)が別レポジトリにあり、2つセットで動作します。
 
 ## 処理概要
 1. **led8-firebase** によるFirestoreのCollectionへの書き込みを監視する
