@@ -6,6 +6,9 @@ LED8プロジェクトは Raspberry PiとFirebaseとVue.jsを用いて、uyamaza
 
 もう一つFirebase Hostingで動作するVue.jsのアプリケーション[**led8-firebase**](https://github.com/uyamazak/led8-firebase)が別レポジトリにあり、2つセットで動作します。
 
+## Demo
+https://ledeight.web.app/index.html
+
 ## 処理概要
 1. **led8-firebase** によるFirestoreのCollectionへの書き込みを監視する
 1. 書き込みされたら、データから光らせるLEDの配列を取得
